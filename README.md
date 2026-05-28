@@ -25,7 +25,6 @@
 
 ## 🛠️ Cara Penggunaan
 
-1. **Clone Repositori Ini**
+1. **download dan pilih 1 aja di dalam folder Files**
    ```bash
-   git clone [https://github.com/username-kamu/Lirik-Python-All-Song.git](https://github.com/username-kamu/Lirik-Python-All-Song.git)
-   cd Lirik-Python-All-Song
+   python nama_filenya.py
