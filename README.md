@@ -1,4 +1,4 @@
-# 🟢 Lirik-Python-All-Song
+# 🟢 Lirik-Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python Version">
@@ -8,9 +8,7 @@
 
 ---
 
-**Lirik-Python-All-Song** adalah sebuah proyek *open-source* sederhana untuk memutar lirik lagu favorit kamu langsung di dalam terminal dengan gaya animasi *synchronized lyrics* dan *progress bar* ala Spotify Premium! 
-
-> ✨ **Keunggulan:** Semua lirik lagu berada dalam satu repositori, dan kamu hanya memerlukan **1 file Python saja** untuk mengeksekusinya!
+**Lirik-Python** adalah sebuah proyek *open-source* sederhana untuk memutar lirik lagu favorit kamu langsung di dalam terminal dengan gaya animasi *synchronized lyrics* dan *progress bar* ala Spotify Premium! 
 
 ---
 
